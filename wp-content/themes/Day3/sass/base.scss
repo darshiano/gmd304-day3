@@ -1,0 +1,12 @@
+$font: Helvetica, Arial, sans-serif;
+$red: #ff1020;
+
+
+body {
+    font-family: $font;
+    color: $red;
+}
+
+.entry-header {
+    background-color: $red;
+}
